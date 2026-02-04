@@ -1,8 +1,8 @@
 
 
   <h1>Business Insights 360</h1>
-  <h3>Cross-Functional Business Performance Analytics Across Finance, Sales, and Supply Chain</h3>
-
+  <h3><strong><em>Cross-Functional Business Performance Analytics Across Finance, Sales, and Supply Chain</em></strong></h3>
+  
   <h2>Project Overview</h2>
   <p>
     Business Insights 360 is an end-to-end business intelligence solution designed to support
