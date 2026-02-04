@@ -3,13 +3,13 @@
   <h1>Business Insights 360</h1>
   <h5><strong><em>Cross-Functional Business Performance Analytics Across Finance, Sales, and Supply Chain</em></strong></h5>
   
-  <h2>Project Overview</h2>
+  <h2>Analysis Overview</h2>
   <p>
     Business Insights 360 is an end-to-end business intelligence solution designed to support
     data-driven decision-making across finance, sales, marketing, and supply chain functions.
   </p>
   <p>
-    The project consolidates operational and financial data into interactive Power BI dashboards,
+    This analysis consolidates operational and financial data into interactive Power BI dashboards,
     enabling stakeholders to monitor performance, understand profitability drivers, and identify
     operational issues across multiple markets, products, and sales channels.
   </p>
