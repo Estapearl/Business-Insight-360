@@ -1,7 +1,7 @@
 
 
   <h1>Business Insights 360</h1>
-  <h3>Cross-Functional Business Performance Analytics Across Finance, Sales, and Supply Chain BI</h3>
+  <h3>Cross-Functional Business Performance Analytics Across Finance, Sales, and Supply Chain</h3>
 
   <h2>Project Overview</h2>
   <p>
