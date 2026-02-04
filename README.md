@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Business Insights 360</title>
-</head>
-<body>
+
 
   <h1>Business Insights 360</h1>
   <h3>Cross-Functional Performance Analytics Using Power BI</h3>
