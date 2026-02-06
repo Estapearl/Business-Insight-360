@@ -103,13 +103,16 @@
 
   <h2>Interactive Dashboard &amp; Walkthrough</h2>
   <p>
-    An interactive dashboard preview and walkthrough video are available via NovyPro:
-  </p>
-  <p>
-    <a href="https://www.novypro.com/project/business-insights-360-83" target="_blank">
-      Business Insights 360 – Interactive Dashboard
-    </a>
-  </p>
+
+  A recorded walkthrough demonstrating dashboard navigation, filters, and key views
+  is available at the link below:
+</p>
+<p>
+  <a href="https://youtu.be/U4_m5ZBvX7w" target="_blank">
+    Business Insights 360 – Dashboard Walkthrough Video
+  </a>
+</p>
+
 
   <h2>Final Takeaway</h2>
   <p>
