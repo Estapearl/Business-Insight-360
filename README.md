@@ -51,17 +51,15 @@ This project was built to solve those challenges by standardising key metrics an
 <hr>
 
 <h2><strong>Financial Performance Dashboard (P&amp;L View)</strong></h2>
-<p><strong>View Dashboard Screenshot:</strong> financial-performance-pl.png</p>
-
 
 <img src="dashboards/financial-performance-pl.png" 
      alt="Financial Performance Dashboard" 
      width="600">
 
-<h3>🎯 Objective</h3>
+<h3> Objective</h3>
 <p>Provide an executive-level Profit &amp; Loss view to track revenue, costs, and profitability across time and business dimensions.</p>
 
-<h3>📊 Key KPIs (Executive Summary)</h3>
+<h3> Key KPIs (Executive Summary)</h3>
 <ul>
 <li><strong>Net Sales:</strong> $3.74bn (+353.5% YoY)</li>
 <li><strong>Gross Margin %:</strong> 38.08% (+2.47% vs LY)</li>
@@ -72,7 +70,7 @@ This project was built to solve those challenges by standardising key metrics an
 These KPIs summarize whether the company is growing revenue, maintaining healthy margins, and converting sales into profit.
 </p>
 
-<h3>📈 What This Dashboard Enables</h3>
+<h3> What This Dashboard Enables</h3>
 <ul>
 <li>Tracks company performance using a structured P&amp;L statement (Sales → Costs → Profitability)</li>
 <li>Compares current performance vs last year (LY) using YoY change and YoY %</li>
@@ -80,7 +78,7 @@ These KPIs summarize whether the company is growing revenue, maintaining healthy
 <li>Breaks down performance by region, customer, and product segment</li>
 </ul>
 
-<h3>🔎 Key Insights (From the Default View)</h3>
+<h3> Key Insights (From the Default View)</h3>
 <ul>
 <li>Net Sales shows strong growth ($3.74bn, +353.5% YoY).</li>
 <li>Gross Margin improved to 38.08%, indicating better margin efficiency vs last year.</li>
@@ -99,7 +97,12 @@ These KPIs summarize whether the company is growing revenue, maintaining healthy
 <hr>
 
 <h2><strong>Sales Performance Dashboard</strong></h2>
-<p><strong>View Dashboard Screenshot:</strong> sales-performance.png</p>
+<p>
+  <strong>Sales Performance Dashboard:</strong>
+  <a href="dashboards/sales-performance.png" target="_blank">
+    View Full Screenshot
+  </a>
+</p>
 
 <h3>🎯 Objective</h3>
 <p>Evaluate revenue contribution and profitability across products and customers to identify key sales drivers.</p>
