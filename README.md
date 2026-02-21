@@ -155,8 +155,6 @@ This dashboard shows which products and customers drive revenue and how profitab
     </td>
   </tr>
 </table>
-
-</div>
 </div>
 <h3>🎯 Objective</h3>
 <p>Evaluate product and market performance by analyzing revenue contribution, gross margin efficiency, and bottom-line profitability across segments.</p>
