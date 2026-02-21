@@ -139,17 +139,17 @@ This dashboard shows which products and customers drive revenue and how profitab
 
 <h2><strong>Product &amp; Profitability Analysis Dashboard</strong></h2>
 <p>
- <table align="center">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <img src="dashboards/product-performance-overview.png"
            alt="Product Performance Overview"
-           width="100%">
+           width="95%">
     </td>
     <td align="center" width="50%">
-      <img src="dashboards/profitability-cost-breakdown.png"
-           alt="product-revenue-margin-analysis.png"
-           width="100%">
+      <img src="dashboards/product-revenue-margin-analysis.png"
+           alt="Product Revenue & Margin Analysis"
+           width="95%">
     </td>
   </tr>
 </table>
