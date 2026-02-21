@@ -55,7 +55,7 @@ This project was built to solve those challenges by standardising key metrics an
 
 <h2>Financial Performance Dashboard (P&L View)</h2>
 
-<img src="dashboard/financial-performance-pl.png" 
+<img src="dashboards/financial-performance-pl.png" 
      alt="Financial Performance Dashboard" 
      width="800">
 
