@@ -53,6 +53,12 @@ This project was built to solve those challenges by standardising key metrics an
 <h2><strong>Financial Performance Dashboard (P&amp;L View)</strong></h2>
 <p><strong>View Dashboard Screenshot:</strong> financial-performance-pl.png</p>
 
+<h2>Financial Performance Dashboard (P&L View)</h2>
+
+<img src="dashboard/financial-performance-pl.png" 
+     alt="Financial Performance Dashboard" 
+     width="800">
+
 <h3>🎯 Objective</h3>
 <p>Provide an executive-level Profit &amp; Loss view to track revenue, costs, and profitability across time and business dimensions.</p>
 
