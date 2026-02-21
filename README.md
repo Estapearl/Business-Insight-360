@@ -139,21 +139,25 @@ This dashboard shows which products and customers drive revenue and how profitab
 
 <h2><strong>Product &amp; Profitability Analysis Dashboard</strong></h2>
 <p>
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
+      <strong>Product Performance Overview</strong><br>
+      <sub>(NSS, GM, GM%, Net Profit by segment + performance matrix)</sub><br><br>
       <img src="dashboards/product-performance-overview.png"
            alt="Product Performance Overview"
-           width="95%">
+           height="220">
     </td>
-    <td align="center" width="50%">
+
+    <td align="center" width="50%" valign="top">
+      <strong>Revenue & Margin Structure</strong><br>
+      <sub>(COGS vs GM + GM → Net Profit waterfall)</sub><br><br>
       <img src="dashboards/product-revenue-margin-analysis.png"
-           alt="Product Revenue & Margin Analysis"
-           width="95%">
+           alt="Product Revenue and Margin Analysis"
+           height="220">
     </td>
   </tr>
 </table>
-
 <h3>🎯 Objective</h3>
 <p>Evaluate product and market performance by analyzing revenue contribution, gross margin efficiency, and bottom-line profitability across segments.</p>
 
