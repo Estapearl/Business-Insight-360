@@ -153,6 +153,35 @@ This dashboard shows which products and customers drive revenue and how profitab
            alt="Product Revenue &amp; Margin Analysis"
            width="380">
     </td>
+       <p align="center">
+
+     <h3>🎯 Objective</h3>
+<p>
+  Evaluate product performance by analyzing revenue (<strong>NSS</strong>), gross margin (<strong>GM</strong>, <strong>GM%</strong>),
+  and net profit to identify the main drivers of profitability pressure.
+</p>
+
+<h3>🔎 Key Insights</h3>
+<ul>
+  <li>Revenue is concentrated in <strong>Notebook</strong> and <strong>Peripherals</strong>, making them the main sales drivers.</li>
+  <li><strong>Gross Margin % (GM%)</strong> is stable (~37–38%), showing production costs are well managed.</li>
+  <li>Despite this, <strong>Net Profit</strong> is negative across all segments.</li>
+  <li>The waterfall analysis shows that <strong>operating expenses</strong>—not <strong>COGS</strong>—are reducing profitability.</li>
+</ul>
+
+<h3>💡 What This Means</h3>
+<p>
+  The business sells well and controls production costs effectively.<br>
+  However, high operating overhead is limiting overall profitability.
+</p>
+<p>
+  This dashboard connects revenue performance, margin efficiency, and cost impact into one clear financial story.
+</p>
+  <strong>View Full Dashboard:</strong><br>
+  <a href="dashboards/financial-performance-pl.png" target="_blank">
+    Click here to view the complete dashboard
+  </a>
+</p>
   </tr>
 </table>
 </div>
