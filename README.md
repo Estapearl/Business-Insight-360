@@ -141,20 +141,13 @@ This dashboard shows which products and customers drive revenue and how profitab
 <p>
 <table width="100%">
   <tr>
-    <td align="center" width="50%" valign="top">
-      <strong>Product Performance Overview</strong><br>
-      <sub>(NSS, GM, GM%, Net Profit by segment + performance matrix)</sub><br><br>
-      <img src="dashboards/product-performance-overview.png"
-           alt="Product Performance Overview"
-           height="220">
+    <td align="center" width="50%">
+      <b>Product Performance Overview</b><br><br>
+      <img src="dashboards/product-performance-overview.png" width="90%" alt="Product Performance Overview">
     </td>
-
-    <td align="center" width="50%" valign="top">
-      <strong>Revenue & Margin Structure</strong><br>
-      <sub>(COGS vs GM + GM → Net Profit waterfall)</sub><br><br>
-      <img src="dashboards/product-revenue-margin-analysis.png"
-           alt="Product Revenue and Margin Analysis"
-           height="220">
+    <td align="center" width="50%">
+      <b>Product Revenue & Margin Analysis</b><br><br>
+      <img src="dashboards/product-revenue-margin-analysis.png" width="90%" alt="Product Revenue & Margin Analysis">
     </td>
   </tr>
 </table>
