@@ -148,7 +148,7 @@ This dashboard shows which products and customers drive revenue and how profitab
     </td>
     <td align="center" width="50%">
       <img src="dashboards/profitability-cost-breakdown.png"
-           alt="Profitability Cost Breakdown"
+           alt="product-revenue-margin-analysis.png"
            width="100%">
     </td>
   </tr>
