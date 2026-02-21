@@ -39,30 +39,6 @@ This project was built to solve those challenges by standardising key metrics an
 
 <hr>
 
-<h2><strong>Analytical Scope & Focus</strong></h2>
-<p><strong>Finance:</strong> Revenue, costs, margins, profitability, and year-to-date performance</p>
-<p><strong>Sales:</strong> Product, customer, and channel performance, including growth trends</p>
-<p><strong>Marketing:</strong> Market and segment performance across regions and product categories</p>
-<p><strong>Supply Chain:</strong> Forecast accuracy, net error, and inventory risk</p>
-<p><strong>Executive Oversight:</strong> High-level KPIs supporting overall business monitoring</p>
-
-<hr>
-
-<h2><strong>Data Modelling & Metrics</strong></h2>
-<p>
-The data model was designed using a snowflake schema, with fact tables representing transactional data and dimension tables providing business context such as product, customer, region, segment, and time.
-</p>
-<ul>
-<li>Net Sales</li>
-<li>Gross Margin and GM%</li>
-<li>Net Profit and profitability trends</li>
-<li>Cost of Goods Sold (COGS)</li>
-<li>Forecast accuracy and net error</li>
-<li>Year-to-Date (YTD) and Year-to-Go (YTG) performance</li>
-</ul>
-
-<hr>
-
 <h2><strong>Tools & Technologies</strong></h2>
 <ul>
 <li>SQL for data extraction and preparation</li>
