@@ -138,7 +138,15 @@ This dashboard shows which products and customers drive revenue and how profitab
 <hr>
 
 <h2><strong>Product &amp; Profitability Analysis Dashboard</strong></h2>
-<p><strong>View Dashboard Screenshot:</strong> product-profitability.png</p>
+<p>
+  <strong>Product Profitability Dashboard:</strong>
+</p>
+
+<a href="dashboards/product-profitability.png" target="_blank">
+  <img src="dashboards/product-profitability.png" 
+       alt="Product Profitability Dashboard"
+       width="800">
+</a>
 
 <h3>🎯 Objective</h3>
 <p>Evaluate product and market performance by analyzing revenue contribution, gross margin efficiency, and bottom-line profitability across segments.</p>
