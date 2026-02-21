@@ -145,7 +145,7 @@ This dashboard shows which products and customers drive revenue and how profitab
     <strong>Product Performance Overview</strong><br><br>
     <img src="dashboards/product-performance-overview.png"
          alt="Product Performance Overview"
-         width="400">
+         width="500">
   </div>
 
   <div style="text-align: center;">
