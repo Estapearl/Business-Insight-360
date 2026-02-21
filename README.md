@@ -139,18 +139,20 @@ This dashboard shows which products and customers drive revenue and how profitab
 
 <h2><strong>Product &amp; Profitability Analysis Dashboard</strong></h2>
 <p>
-  <strong>Product Profitability Dashboard:</strong>
-</p>
-
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="dashboards/product-performance-overview.png" 
-       alt="Product Performance Overview" 
-       width="48%">
-
-  <img src="dashboards/profitability-cost-breakdown.png" 
-       alt="Profitability Cost Breakdown" 
-       width="48%">
-</div>
+ <table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="dashboards/product-performance-overview.png"
+           alt="Product Performance Overview"
+           width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="dashboards/profitability-cost-breakdown.png"
+           alt="Profitability Cost Breakdown"
+           width="100%">
+    </td>
+  </tr>
+</table>
 
 <h3>🎯 Objective</h3>
 <p>Evaluate product and market performance by analyzing revenue contribution, gross margin efficiency, and bottom-line profitability across segments.</p>
